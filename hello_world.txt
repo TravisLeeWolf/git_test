@@ -1,1 +1,2 @@
 To the world I say hello!
+And to other developers I say, print("Hello!")
